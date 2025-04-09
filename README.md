@@ -77,4 +77,4 @@ Uma **Conta de Armazenamento** no Azure permite armazenar objetos como blobs, ar
 
 ---
 
-Se quiser que eu adicione mais seções ou personalize o estilo, só avisar!
+
